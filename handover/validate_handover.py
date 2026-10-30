@@ -17,13 +17,13 @@ for phrase in ['readiness to sign','100%','50%','25%','Daily operating rhythm','
  assert phrase.lower() in text.lower(),phrase
 md=(root/'PMP-Marketing-Department-Owner-Handover-SOP.md').read_text()
 for heading in ['Daily operating rhythm','Tools and records','Approval matrix','Sources and limits']:assert heading in md
-p=Presentation(root/'PMP-Marketing-Department-Owner-Handover.pptx');assert len(p.slides)==20
+p=Presentation(root/'PMP-Marketing-Department-Owner-Handover.pptx');assert len(p.slides)==22
 assert not any(sh.shape_type==13 for sl in p.slides for sh in sl.shapes)
 from html.parser import HTMLParser
 class Links(HTMLParser):
  def handle_starttag(self,tag,attrs):
   if tag=='a':
-   href=dict(attrs).get('href');assert href and (root/href).is_file(),href
+   href=dict(attrs).get('href');assert href and ((root/href).is_file() or ((root/href).is_dir() and (root/href/'index.html').is_file())),href
 Links().feed((root/'index.html').read_text())
 try:
  import fitz
@@ -34,4 +34,4 @@ try:
    assert len(page.get_text().strip())>100,'Unexpected blank page'
   print(stem+': '+str(len(pdf))+' rendered pages')
 except ImportError:print('PDF text check skipped: install PyMuPDF for rendering checks.')
-print('Validated: 12 complete procedures, 14 separate positions, editable Office files, complete Markdown, 20-slide briefing and working landing-page file links.')
+print('Validated: 12 complete procedures, 14 separate positions, editable Office files, complete Markdown, 22-slide briefing and working landing-page file links.')

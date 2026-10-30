@@ -1,3 +1,7 @@
+## Incoming Marketing Manager onboarding
+
+For detailed daily operation and training, use the [manager onboarding pack](onboarding/index.html): editable runbook, 48-slide training deck, PDF previews, templates and scenario answer keys. This is separate from the concise owner handover below. Includes company resource restrictions, shoot coordination and equipment accountability; unconfirmed controls remain labeled.
+
 ## Primary owner handover pack
 
 The latest goal is the Marketing Department Mode of Operations / SOP for owner handover. Use [the editable operating manual](handover/PMP-Marketing-Department-Owner-Handover-SOP.docx), [the concise editable owner briefing](handover/PMP-Marketing-Department-Owner-Handover.pptx), and [the handover download page](handover/index.html). The earlier long presentation and browser application remain supporting reference/demo materials. See [handover notes](handover/README.md) for scope and rebuilding.

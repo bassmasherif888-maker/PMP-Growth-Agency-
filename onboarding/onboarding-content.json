@@ -1,0 +1,725 @@
+{
+  "managerChecks": {
+    "SOP-01": [
+      [
+        "Check why the business is a suitable prospect, which channel produced the lead and who owns the next action.",
+        "Ask Sales/BD to distinguish a response, a booked meeting, interest, readiness to sign and a signed contract.",
+        "Check that AM has context before the client meeting, rather than receiving the account after closing."
+      ],
+      [
+        "Lead/contact reference; reason for fit; next meeting/action; pre-contract folder."
+      ],
+      [
+        "No clear service need or next owner: return for qualification; do not represent it as a won account."
+      ]
+    ],
+    "SOP-02": [
+      [
+        "Open the actual source notes and proposal; a polished deck alone does not demonstrate research.",
+        "Check that every claim is labeled as Observed, Interpretation or Recommendation. Inspect source dates and inaccessible-source disclosures.",
+        "Compare proposed deliverables to the available assets and capacity. Do not approve a plan that assumes nonexistent footage or capabilities.",
+        "Check the three tiers against proposed scope, actual market-range evidence and previous-price records. No invented market rates.",
+        "Ensure Sales/BD has studied the problems and solutions rather than simply forwarding skill output."
+      ],
+      [
+        "Dated research/source register; audit; initial strategy; tier scope comparison; pricing evidence."
+      ],
+      [
+        "Unsupported claim: relabel or verify. Missing pricing evidence: do not present an invented price as market-validated."
+      ]
+    ],
+    "SOP-03": [
+      [
+        "Read the meeting brief and identify what changed from the initial assumptions.",
+        "Look for an explicit client-readiness-to-sign record; interest or a successful meeting is not the same milestone.",
+        "If readiness is absent, keep the actual-strategy working group pending. Sales/BD and AM retain the next pre-sales action."
+      ],
+      [
+        "Actual client brief; meeting notes; readiness status/reference; next action."
+      ],
+      [
+        "Client not ready: remain in pre-sales. Do not start actual-strategy development simply because meeting one happened."
+      ]
+    ],
+    "SOP-04": [
+      [
+        "Ask AM for a proposal-versus-actual-brief comparison before accepting the actual strategy.",
+        "Work with AM, SM and MB to resolve mismatches in objective, channel, audience, resources, measurement and paid-media assumptions.",
+        "Check whether changes affect deliverable quantities, production effort, scope or quotation; do not silently add work.",
+        "Keep the proposal, actual strategy and agreed quotation distinguishable. The final strategy in the signing pack must reflect the actual brief."
+      ],
+      [
+        "Readiness evidence; comparison/change log; actual strategy; aligned quotation reference."
+      ],
+      [
+        "Readiness not confirmed: stop this preparation step. Conflicting requirements: AM resolves them with client before promising delivery."
+      ]
+    ],
+    "SOP-05": [
+      [
+        "Check the printed brief, actual strategy, agreed quotation and contract refer to the same account and scope; all four must be signed.",
+        "Confirm the folder was moved, not copied: before PMP Drive / Quotations / [Client]; after PMP Drive / [Client].",
+        "Check quotation records are retained and production folders are organized for the correct client/month.",
+        "Confirm AM established the client WhatsApp group and the appropriate stakeholders are included."
+      ],
+      [
+        "Signed four-part pack; folder reference; folder structure; kickoff group membership."
+      ],
+      [
+        "Folder moved but signatures/payment missing: do not infer delivery readiness from folder location."
+      ]
+    ],
+    "SOP-06": [
+      [
+        "Determine contract category from the agreed scope, not an assumption about the client.",
+        "Social-management-only: require the full contract amount before delivery. Other-services-included: require at least half.",
+        "Identify the authorized payment verifier with the owner; this manual does not assign that financial authority automatically to MM or AM.",
+        "Separate the post-execution 25% media fee from the upfront contract gate and from the media budget."
+      ],
+      [
+        "Signed scope/category; contract amount; received-funds evidence; named verifier/confirmation; later actual-spend record."
+      ],
+      [
+        "Missing verification: hold contracted production. Do not invent balance dates, tax rules or media funding terms."
+      ]
+    ],
+    "SOP-07": [
+      [
+        "Check every task has one accountable holder, its actual brief, a usable output definition, priority, deadline, input links and reviewer.",
+        "Check upstream dependencies: the next person should not have to infer missing copy, dimensions, footage, terms or client instructions.",
+        "Work through AM to maintain one execution view while heads manage their quality work.",
+        "Review workload before promising a date; any numeric capacity limit or SLA must be agreed rather than assumed."
+      ],
+      [
+        "Current task sheet; brief; holder; dates; source/output links; dependencies; review route."
+      ],
+      [
+        "Missing inputs: block and assign follow-up. Multiple contributors without one accountable holder: clarify ownership before handoff."
+      ]
+    ],
+    "SOP-08": [
+      [
+        "For content, open the same monthly calendar PPTX used by the team; connect comments to the correct task/item.",
+        "For Design/Video, inspect the task/reference and actual revision state; do not demand final Drive archival before final client approval.",
+        "Make each comment executable: identify the item, problem, expected change and reason. Record the reviewer and owner response.",
+        "Do not close a task because the holder says edits are done; verify through the required review decisions."
+      ],
+      [
+        "Task and calendar references; comments; owner execution responses; updated output version."
+      ],
+      [
+        "Conflicting comments: coordinate one resolved direction before asking the holder to execute both. Unresolved comment: task remains open."
+      ]
+    ],
+    "SOP-09": [
+      [
+        "Content: confirm Head of Content review first. Design: confirm Head of Design review first.",
+        "Video: perform video-quality review yourself as MM and record it; then record the final internal approval as its own decision.",
+        "Review the current output against brief, strategy, accuracy, brand requirements, completeness and the comment history.",
+        "Do not treat head approval or MM approval as external client approval."
+      ],
+      [
+        "Quality reviewer decision; MM decision; current output reference/version; resolved-comment history."
+      ],
+      [
+        "Quality fails: return to holder with comments. You are unavailable: use only a confirmed delegate; do not invent an override."
+      ]
+    ],
+    "SOP-10": [
+      [
+        "Inspect AM’s presentation manifest: every included deliverable must have its required internal reviews.",
+        "Check the presented version is identifiable and the client approval refers to that version and included scope.",
+        "If the client rejects one item, ensure AM routes that item to the correct holder and coordinates the required re-review and renewed client decision.",
+        "After approval, confirm final Design/Video archive links correspond to approved copies. Content’s working calendar exception remains."
+      ],
+      [
+        "Presentation reference/version; task manifest; internal decisions; external client decision; final archive references."
+      ],
+      [
+        "Client approval not evidenced: hold publication. Material changed after approval: prior approval does not automatically cover that change."
+      ]
+    ],
+    "SOP-11": [
+      [
+        "Check SM has the approved calendar/presentation and final assets for the correct account and platform.",
+        "Review the publishing schedule, live/scheduled references and community exceptions; SM also handles private-label page replies.",
+        "Keep paid activation separate from organic publication. Confirm the applicable agreed plan, authorizations and funding with MB.",
+        "If someone asks for an urgent unapproved change, route it back through the relevant reviews; urgency is not an approval state."
+      ],
+      [
+        "Approved calendar; final assets; publishing schedule/live links; reply exceptions; paid authorization references where applicable."
+      ],
+      [
+        "Wrong account, asset, version or approval: do not proceed. Incident already live: use the agreed platform/account authority; document and escalate, not an invented blanket delete rule."
+      ]
+    ],
+    "SOP-12": [
+      [
+        "Ask SM for performance and listening reports, not only publication counts. Ask MB for paid performance and actual-spend evidence.",
+        "Validate source dates, reporting period, metric definitions and missing-data labels before discussing results.",
+        "Calculate the post-execution media fee from the agreed actual-expense basis; do not use planned or unused budget as actual spend.",
+        "Translate findings into owned actions and a next-cycle recommendation; do not guarantee growth or fabricate baselines."
+      ],
+      [
+        "SM reports; MB spend/performance; source dates; definitions; action owner/next review; actual-expense fee calculation."
+      ],
+      [
+        "Data missing: mark unverified and assign the access/evidence action. Unagreed fee basis: resolve with authorized commercial/financial authority before final billing."
+      ]
+    ],
+    "SOP-13": [
+      [
+        "Ask AM for the outsourced crew, guest and PR arrangements, the task brief and expected outputs.",
+        "Ask SM where the collected originals, recipient handoff and BTS output are referenced.",
+        "Confirm SM can account for issued/returned memory cards and studio tools; a data handoff does not erase equipment accountability.",
+        "If hard drives are used, identify the specific drive and named custodian. Do not assume a universal backup policy or SM custody of all drives.",
+        "Enforce the documented role rule: Higgsfield account is only for the two video-editor positions."
+      ],
+      [
+        "Shoot brief/arrangements; media transfer/task reference; receiver; BTS reference; card/tool status; drive location/custodian where used."
+      ],
+      [
+        "Missing data, unreadable files or unaccounted equipment: record the issue, involve AM/SM and authorized leadership; do not format, overwrite or claim completion as a workaround. Backup/format controls must be explicitly adopted."
+      ]
+    ]
+  },
+  "trainingCases": [
+    [
+      "1 / Prospect and first meeting",
+      "Sales finds a business after reviewing its social channels. Sales/BD prepares an audit, initial strategy and three tiers; AM participates. Meeting one reveals that the client has limited footage and a different target audience.",
+      "Capture the actual brief and mismatches. Do not treat the initial skill output as the final actual strategy."
+    ],
+    [
+      "2 / Interest is not readiness",
+      "The prospect says “this looks promising” but has not confirmed readiness to sign.",
+      "Keep actual-strategy development pending. Sales/BD and AM own the pre-sales next action."
+    ],
+    [
+      "3 / Readiness confirmed",
+      "Client confirms readiness to sign.",
+      "AM compares proposal with actual brief, then develops the actual strategy with SM/MM/MB. Resolve scope/quotation effects before the printed signing pack."
+    ],
+    [
+      "4 / Signing and folder movement",
+      "Client signs the printed brief, actual strategy, agreed quotation and contract. The folder is still in Quotations.",
+      "Sales or BD moves the SAME folder out to standalone client location; preserve records. AM opens kickoff group. This does not yet prove delivery payment."
+    ],
+    [
+      "5 / Payment check",
+      "The illustrative contract includes other services and totals 10,000 units. Only 4,000 has been verified.",
+      "Hold contracted delivery. The required minimum is 5,000. If social-only, the minimum would be 10,000. Verify funds through authorized party."
+    ],
+    [
+      "6 / Production assignment",
+      "Required upfront funds are verified. AM creates a content task and a reel task. Footage for the reel is missing.",
+      "Content may proceed when its inputs are ready; mark the reel blocked on footage and have AM coordinate it. Keep separate accountable holders."
+    ],
+    [
+      "7 / Content review",
+      "Writer submits on task sheet and uploads the monthly calendar. HC returns a caption with comments.",
+      "Comments remain on the same calendar/item; task stays open. Writer executes comments and records response; HC reviews, then MM approves."
+    ],
+    [
+      "8 / Video review",
+      "Editor submits the reel after footage arrives. MM finds a wrong price at a timestamp.",
+      "MM records video-quality feedback. Editor corrects and resubmits. MM quality pass and final internal approval are distinct records."
+    ],
+    [
+      "9 / Client presentation",
+      "AM gathers finalized work in one PPTX. Client asks for a design change but has not approved it.",
+      "Route the affected task back, keep/reopen it, execute comments and repeat relevant reviews. Do not publish the rejected version."
+    ],
+    [
+      "10 / Approval and execution",
+      "Client approves the corrected presentation/version.",
+      "Archive final approved Design/Video copies. SM receives approved calendar/presentation and assets, schedules/publishes and manages replies."
+    ],
+    [
+      "11 / Learn and fee",
+      "SM prepares performance/listening reports. MB’s plan is executed with verified actual expenses of 8,000 units on the agreed basis.",
+      "Review evidence and owned next actions. The illustrative 25% post-execution fee is 2,000; unknown taxes/terms are not invented."
+    ]
+  ],
+  "practiceScenarios": [
+    [
+      "Prospect liked the deck; actual strategy is requested before readiness is confirmed.",
+      "Hold actual-strategy work. Sales/BD and AM confirm readiness to sign after meeting one before AM/SM/MM/MB develop the actual strategy."
+    ],
+    [
+      "Mixed-service contract of 10,000 units is signed; 5,000 is verified. Can delivery start?",
+      "Only if the four-part signed pack and authorized verification are complete; the illustrative 50% minimum is met. If social-only, it is not enough."
+    ],
+    [
+      "The folder is standalone on Drive but payment evidence is missing.",
+      "Folder movement is a signature milestone, not payment evidence. Contracted delivery remains held."
+    ],
+    [
+      "Writer uploads a calendar and receives comments. Should a new review calendar be created?",
+      "Content comments stay on the same calendar PPTX; keep task/item references and owner execution responses traceable."
+    ],
+    [
+      "HD approved a video. Is that the required video-quality gate?",
+      "No. User confirmed MM performs video quality; editors report directly to MM. MM quality and final internal decisions must be recorded."
+    ],
+    [
+      "Holder marks edits done while two reviewer comments remain unresolved.",
+      "Task stays open. Holder executes all comments and reviewers decide the required approvals; status text alone does not close the loop."
+    ],
+    [
+      "MM approved the assets; the client has not approved AM’s presentation.",
+      "Hold publication. AM presents one finalized PPTX and records final external client approval for that version."
+    ],
+    [
+      "SM only reports that posts were published. What is missing from the role review?",
+      "Check private-label calendar collection, strategy, performance reports, listening reports, scheduling and page replies as applicable—not publication alone."
+    ],
+    [
+      "Media plan budget was 20,000, but actual agreed-basis expenses after execution are 8,000.",
+      "Illustrative fee is 25% × 8,000 = 2,000, subject to agreed expense definition and terms. Planned budget is not actual spend."
+    ],
+    [
+      "MM is unavailable; a holder wants to self-approve to meet a date.",
+      "Use only a confirmed authorized backup; otherwise ask owner to assign authority and record the hold. Urgency does not create an override."
+    ],
+    [
+      "An output changes after client approval.",
+      "Identify affected scope/version, repeat applicable internal reviews and renewed client decision before releasing changed material."
+    ],
+    [
+      "Public Reel views are very high; can the report state ad spend was confirmed?",
+      "No. Public patterns can inform an interpretation, not confirm paid boosting or spend. Record that ad-account evidence is unavailable."
+    ],
+    [
+      "A designer asks to use the company Higgsfield account because a video editor is busy.",
+      "Do not grant use. Higgsfield is restricted to VE-01/VE-02; every other member, including MM, is forbidden from using that account. Coordinate the work through an authorized video editor."
+    ],
+    [
+      "Who arranges the outsourced shoot and who collects its data?",
+      "AM coordinates outsourced video/photo crew, guests and PR person. SM collects the footage/photos, hands them to assigned editors/designers, captures BTS and takes full accountability for memory cards/studio tools."
+    ],
+    [
+      "A company hard drive has files on it. Can SM be assumed to own its custody and the files be called backed up?",
+      "No. Several drives exist, but drive custody and backup rules are not specified. Identify a named custodian, path and actual evidence; do not infer backup or retention status."
+    ],
+    [
+      "A card transfer is unreadable and someone wants to format it.",
+      "Record the issue and involve SM/AM/authorized administrator; do not use destructive formatting as a workaround. Adopt explicit transfer/backup/format authority controls; no policy period is invented here."
+    ]
+  ],
+  "templates": [
+    [
+      "A. Access and authority inventory",
+      [
+        [
+          "System / account",
+          "[Drive/task sheet/publishing/media/communication system]"
+        ],
+        [
+          "Authorized administrator",
+          "[Role/contact in private register]"
+        ],
+        [
+          "Access required / granted",
+          "[Purpose, role permissions and test result—not password]"
+        ],
+        [
+          "Authority boundary",
+          "[What MM may decide; limit; approving party]"
+        ],
+        [
+          "Backup / issue route",
+          "[Named authorized delegate and scope]"
+        ],
+        [
+          "Evidence / status",
+          "[Private reference; not assessed / verified / blocked; date]"
+        ]
+      ]
+    ],
+    [
+      "B. Client operating snapshot",
+      [
+        [
+          "Account / scope",
+          "[Private account reference and signed service scope]"
+        ],
+        [
+          "Current strategy / brief",
+          "[Actual strategy and brief references; distinguish initial proposal]"
+        ],
+        [
+          "Commercial state",
+          "[Ready to sign / signed / payment verification status and reference]"
+        ],
+        [
+          "Current work",
+          "[Task holder, next milestone, open comments and blockers]"
+        ],
+        [
+          "Client pack / approval",
+          "[Current version; decision/evidence; pending items]"
+        ],
+        [
+          "Publishing / reporting",
+          "[Approved calendar, live/scheduled view, reporting obligations]"
+        ]
+      ]
+    ],
+    [
+      "C. Proposal-to-actual-brief comparison",
+      [
+        [
+          "Readiness evidence",
+          "[Client ready to sign after meeting one; date/reference]"
+        ],
+        [
+          "Proposal assumption",
+          "[Specific pre-meeting assumption and source]"
+        ],
+        [
+          "Actual brief fact",
+          "[What the client actually stated; reference]"
+        ],
+        [
+          "Required strategy change",
+          "[Change agreed/developed by AM with SM/MM/MB]"
+        ],
+        [
+          "Scope / quotation impact",
+          "[Any quantity, resource or commercial change requiring agreement]"
+        ],
+        [
+          "Actual strategy reference",
+          "[Current actual strategy and signing-pack version]"
+        ]
+      ]
+    ],
+    [
+      "D. Task and handoff card",
+      [
+        [
+          "Task / account / holder",
+          "[Unique reference; one accountable role; collaborators if any]"
+        ],
+        [
+          "Brief / objective",
+          "[Actual requirement and approved source]"
+        ],
+        [
+          "Priority / dates",
+          "[Agreed priority, due/start/end; no invented SLA]"
+        ],
+        [
+          "Inputs / dependencies",
+          "[Copy, assets, footage, preceding tasks and access]"
+        ],
+        [
+          "Deliverable / acceptance",
+          "[What will be supplied and how it is checked]"
+        ],
+        [
+          "Review route",
+          "[Head or MM video quality → MM → AM pack → client]"
+        ],
+        [
+          "References / history",
+          "[Current link/version; comments; decisions; final/live link]"
+        ]
+      ]
+    ],
+    [
+      "E. Review comment and execution response",
+      [
+        [
+          "Comment author / date",
+          "[AM/MM/relevant head/client via AM]"
+        ],
+        [
+          "Affected item",
+          "[Task, calendar slide, timestamp or asset/version]"
+        ],
+        [
+          "Issue / expected change",
+          "[Specific correction and reason/source]"
+        ],
+        [
+          "Accountable holder",
+          "[One responsible holder]"
+        ],
+        [
+          "Execution response",
+          "[What holder changed; new output reference]"
+        ],
+        [
+          "Review result",
+          "[Pass/return/pending; reviewer and decision layer]"
+        ]
+      ]
+    ],
+    [
+      "F. Client presentation manifest",
+      [
+        [
+          "Client pack",
+          "[PPTX reference/version and presentation date]"
+        ],
+        [
+          "Included tasks",
+          "[Task IDs, outputs and current versions]"
+        ],
+        [
+          "Quality and MM decisions",
+          "[Per-item decisions; unresolved items excluded/flagged]"
+        ],
+        [
+          "Client decision",
+          "[Approved / specific revisions / pending; actual evidence]"
+        ],
+        [
+          "Change impact",
+          "[Affected tasks and reviews to repeat]"
+        ],
+        [
+          "SM / archive handoff",
+          "[Approved calendar/assets, final monthly references and receiver]"
+        ]
+      ]
+    ],
+    [
+      "G. Daily control note",
+      [
+        [
+          "Check date / coordinator",
+          "[Actual date; AM/MM coordination]"
+        ],
+        [
+          "Due / ready work",
+          "[Current tasks, owners and inputs]"
+        ],
+        [
+          "Review queue",
+          "[Waiting for head/MM/client, by output version]"
+        ],
+        [
+          "Open comments / blockers",
+          "[Issue, responsible follow-up owner and next action]"
+        ],
+        [
+          "Client/priority decision",
+          "[Decision required and authorized route]"
+        ],
+        [
+          "Carryover / next check",
+          "[What remains, next owner and agreed check point]"
+        ]
+      ]
+    ],
+    [
+      "H. Approval decision record",
+      [
+        [
+          "Layer",
+          "[Quality / MM final internal / external client]"
+        ],
+        [
+          "Actor",
+          "[Who actually made the decision; AM records client decision]"
+        ],
+        [
+          "Output scope / version",
+          "[Exactly what is covered]"
+        ],
+        [
+          "Decision / date",
+          "[Pass, return, approved, pending; actual date]"
+        ],
+        [
+          "Evidence reference",
+          "[Private decision record/message/document]"
+        ],
+        [
+          "Exceptions / superseded version",
+          "[Limits and what must be re-reviewed if changed]"
+        ]
+      ]
+    ],
+    [
+      "I. Payment and media-fee evidence",
+      [
+        [
+          "Contract category / scope",
+          "[Social-only or other-services-included from signed scope]"
+        ],
+        [
+          "Required upfront amount",
+          "[100% or 50% of agreed contract amount]"
+        ],
+        [
+          "Verified received amount",
+          "[Evidence and authorized verifier; no invented confirmation]"
+        ],
+        [
+          "Delivery readiness",
+          "[Signed pack and required funds evidenced, or held]"
+        ],
+        [
+          "Media execution / actual expenses",
+          "[Executed plan; verified expenses; agreed expense basis]"
+        ],
+        [
+          "25% fee / terms",
+          "[Actual-expense calculation; tax/billing terms per agreement]"
+        ]
+      ]
+    ],
+    [
+      "J. Incident / escalation note",
+      [
+        [
+          "What happened / when",
+          "[Observable fact; affected account/output/version]"
+        ],
+        [
+          "Current exposure",
+          "[Pending or already live; what is known/unknown]"
+        ],
+        [
+          "Immediate authorized action",
+          "[Who may act and approved scope; no invented bypass]"
+        ],
+        [
+          "AM/client route",
+          "[Who coordinates communication and required decisions]"
+        ],
+        [
+          "Resolution evidence",
+          "[Corrected/reviewed version and any renewed approval]"
+        ],
+        [
+          "Prevention / follow-up",
+          "[Owned action, evidence needed, next review]"
+        ]
+      ]
+    ],
+    [
+      "K. Performance and listening review",
+      [
+        [
+          "Reporting period / sources",
+          "[Actual source dates and access gaps]"
+        ],
+        [
+          "Objective / baseline",
+          "[Verified objective and baseline or explicitly unknown]"
+        ],
+        [
+          "Observed findings",
+          "[Actual metrics, themes and quotes with private references]"
+        ],
+        [
+          "Interpretation",
+          "[Judgment separated from facts]"
+        ],
+        [
+          "Recommendation / owner",
+          "[Action, accountable owner, scope/approval needs]"
+        ],
+        [
+          "Next check / limitations",
+          "[Agreed timing; missing evidence; no guaranteed outcomes]"
+        ]
+      ]
+    ],
+    [
+      "L. Onboarding sign-off",
+      [
+        [
+          "Competency",
+          "[Gate reasoning, task trace, quality review, reporting or exception handling]"
+        ],
+        [
+          "Demonstration reference",
+          "[Anonymized example and actual assessor observation]"
+        ],
+        [
+          "Result",
+          "[Not assessed / needs supervised practice / demonstrated]"
+        ],
+        [
+          "Assessor / date",
+          "[Named approved assessor and date]"
+        ],
+        [
+          "Authority granted",
+          "[Explicit delegation or retained constraints; training is not authority by itself]"
+        ],
+        [
+          "Outstanding actions",
+          "[Owner, action and agreed follow-up date]"
+        ]
+      ]
+    ],
+    [
+      "M. Shoot coordination and media handoff",
+      [
+        [
+          "AM arrangements",
+          "[Outsourced crew, guest and PR contacts; agreed brief/schedule/location]"
+        ],
+        [
+          "Required outputs / holders",
+          "[Footage/photos/BTS; recipient editor/designer; task references]"
+        ],
+        [
+          "Source collection by SM",
+          "[What was collected, when, from whom and private reference]"
+        ],
+        [
+          "Transfer / receipt",
+          "[Files/path; receiving holder; readability/completeness result]"
+        ],
+        [
+          "Memory cards / studio tools",
+          "[Item IDs, issue/return, condition and exceptions; SM accountable]"
+        ],
+        [
+          "Company hard drive",
+          "[Drive ID/location/path and named custodian; do not invent backup status]"
+        ],
+        [
+          "Open issues / next owner",
+          "[Missing/corrupt files, lost item, damage or follow-up]"
+        ]
+      ]
+    ],
+    [
+      "N. Software and equipment register",
+      [
+        [
+          "Resource",
+          "[Higgsfield / Claude / ChatGPT / Canva / Adobe / drive / card / tool]"
+        ],
+        [
+          "Confirmed access rule",
+          "[Higgsfield: VE-01/VE-02 only; others forbidden]"
+        ],
+        [
+          "Assigned seat / custodian",
+          "[Authorized person/role or TO CONFIRM; no password]"
+        ],
+        [
+          "Administrator / location",
+          "[Approved administrator; physical location where relevant]"
+        ],
+        [
+          "Handoff / permission",
+          "[Who issued/received item; access or transfer evidence]"
+        ],
+        [
+          "Backup / retention / return",
+          "[Adopted rule or TO CONFIRM; no invented capacity or backup guarantee]"
+        ]
+      ]
+    ]
+  ]
+}

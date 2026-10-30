@@ -405,7 +405,7 @@ Reporting relation: Business Developer — proposed.
 
 ### AM-01 | Account Manager
 
-Participate throughout acquisition; capture actual brief; coordinate actual strategy; distribute and monitor tasks; gather approved work in one PPTX; obtain client approval.
+Participate throughout acquisition; capture brief and coordinate actual strategy; distribute/monitor work and client PPTX approvals; arrange outsourced videography/photography, podcast guests and the PR person.
 
 Expected daily/work-cycle evidence: Current brief; task records; consolidated presentation and approval reference.
 
@@ -477,7 +477,7 @@ Reporting relation: Marketing Manager — confirmed by user.
 
 ### SM-01 | Social Media Specialist
 
-Gather private-label calendars; create strategies, performance and listening reports; schedule/publish approved calendars; reply to page comments.
+Gather private-label calendars; create strategy/performance/listening reports; schedule/publish approved calendars and reply to comments; collect photo/video data, hand it to editors/designers, take full accountability for memory cards and studio tools, and shoot behind-the-scenes content.
 
 Expected daily/work-cycle evidence: Publishing schedule, live links, performance/listening reports and strategy input.
 
@@ -515,6 +515,19 @@ Any unresolved review comment keeps the task open. AM, MM and relevant heads can
 | One client presentation PPTX | AM consolidates finalized outputs for client review. | Keep final client approval tied to the presented version. |
 | SKILL-1.md / SSM Strategy | Research-first audit/strategy method; 26 sections when full scope applies. | Not a pricing engine; source access gaps must be disclosed. |
 | Demo website | Training/reference, local task simulation and illustrative payment checker. | Not a production system of record; no shared authentication, payment verification, real publication or Drive automation. |
+
+## 6A. Company resources and shooting operations
+
+| Resource / responsibility | Confirmed rule or boundary |
+| --- | --- |
+| Higgsfield account | For Video Editors VE-01 and VE-02 ONLY. Use by any other team member is forbidden; manager/owner title does not create an exception. |
+| Claude and ChatGPT | Company-provided subscriptions. Assigned seats, plans and permitted data use must be confirmed; no credentials are included here. |
+| Canva and Adobe programs | Company-provided subscriptions/software. Exact applications, seats and licence arrangements must be confirmed. |
+| Company hard drives | Several drives exist. Record each asset, contents, location and a named custodian. Custodian and backup rules were not specified; do not assume SM automatically owns every hard drive. |
+| Account Manager | Arranges outsourced videography/photography team, podcast guests and the PR person. |
+| Social Media Specialist | Collects data from videographer/photographer and hands it to editors/designers; takes full accountability for memory cards and studio tools; captures behind-the-scenes content. |
+
+Shooting handoff: AM coordinates the people and arrangements; SM collects the photo/video data, maintains accountable custody of memory cards/studio tools and transfers the relevant files/references to the assigned editor/designer. Receiver verification, asset IDs, issue/return logs, backup checks and a no-format-before-confirmed-transfer check are recommended controls requiring adoption; they are not claimed as existing company policy. No actual file transfer or equipment inventory is certified by this document.
 
 ## 7. Daily operating rhythm — proposed for owner confirmation
 

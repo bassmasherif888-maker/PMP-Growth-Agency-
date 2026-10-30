@@ -4,7 +4,7 @@ The primary deliverable is an operating manual, rather than the earlier long dem
 
 - `PMP-Marketing-Department-Owner-Handover-SOP.docx`: editable owner handover SOP, including 12 procedures, role/tool registers, approval matrix, proposed daily routine, exceptions and acceptance checklist.
 - `PMP-Marketing-Department-Owner-Handover-SOP.md`: complete editable text companion exported from the Word document in body order.
-- `PMP-Marketing-Department-Owner-Handover.pptx`: concise 20-slide native editable owner briefing.
+- `PMP-Marketing-Department-Owner-Handover.pptx`: concise 22-slide native editable owner briefing.
 - Matching PDFs provide read-only previews.
 - `procedure-register.json`: the 12 structured procedures.
 - `index.html`: a static download/preview page for GitHub Pages.
