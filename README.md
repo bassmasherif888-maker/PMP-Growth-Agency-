@@ -48,4 +48,16 @@ For production: migrate to typed components if desired; add authenticated backen
 
 ## Validation
 
-Eleven Node tests cover distinct role seeds, reporting/dependency cycles, required inputs, publishing approvals, budget gates, independent review, revisions full mission completion, graph layout and all five relationship layers. Browser smoke checks exercise navigation, all 14 org cards, inspectors, task creation, mission completion, reload persistence and mobile viewport fit.
+Sixteen Node tests cover distinct role seeds, reporting/dependency cycles, required inputs, publishing approvals, budget gates, independent review, revisions full mission completion, graph layout and all five relationship layers. Browser smoke checks exercise navigation, all 14 org cards, inspectors, task creation, mission completion, reload persistence and mobile viewport fit.
+
+## Confirmed delivery process and workbook structure
+
+The Account Manager attends client meetings, writes and distributes the brief to Content, Design and Editing, assigns tasks and monitors execution. Content and Design heads perform team quality review; Marketing Manager performs video quality review and supplies the subsequent internal approval. The Account Manager then collects finalized deliverables into one PPTX, presents it for final client approval and passes the approved presentation to Social Media Specialist for scheduling/publication.
+
+AM, Marketing Manager and the relevant head can each record actionable comments. The task remains open until its accountable holder executes every comment and records a response. Re-review and Marketing approval are required after rejection. New revisions invalidate the project presentation and block publication until it is reassembled and client-approved.
+
+Social Media Specialist gathers private-label calendars, creates strategies, performance reports and listening reports, schedules/publishes approved calendars and replies to comments on private-label pages.
+
+Task-sheet-inspired fields include brief, account, priority, owner, deadline, start/end dates, deliverable references, creative/revision references and holder notes. Historical spreadsheet labels such as First approval and Final approval do not prove which actor approved or that the client approved. No real staff/client records, private links, workbook rows or credentials are imported into this public demo.
+
+The demo exports a native editable PPTX of task summaries after reviews pass. Actual creative files are not attached or embedded; this is not a complete real-client presentation until the approved deliverable assets are added. All approvals are local simulations. Existing browser tasks are retained on process migration, but obsolete approvals are reset so the new gates cannot be bypassed. Shared persistence and authenticated reviewer permissions still require a backend.
