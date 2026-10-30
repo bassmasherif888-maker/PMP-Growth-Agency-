@@ -48,7 +48,7 @@ For production: migrate to typed components if desired; add authenticated backen
 
 ## Validation
 
-Sixteen Node tests cover distinct role seeds, reporting/dependency cycles, required inputs, publishing approvals, budget gates, independent review, revisions full mission completion, graph layout and all five relationship layers. Browser smoke checks exercise navigation, all 14 org cards, inspectors, task creation, mission completion, reload persistence and mobile viewport fit.
+Eighteen Node tests cover distinct role seeds, reporting/dependency cycles, required inputs, publishing approvals, budget gates, independent review, revisions full mission completion, graph layout and all five relationship layers. Browser smoke checks exercise navigation, all 14 org cards, inspectors, task creation, mission completion, reload persistence and mobile viewport fit.
 
 ## Confirmed delivery process and workbook structure
 
@@ -61,3 +61,9 @@ Social Media Specialist gathers private-label calendars, creates strategies, per
 Task-sheet-inspired fields include brief, account, priority, owner, deadline, start/end dates, deliverable references, creative/revision references and holder notes. Historical spreadsheet labels such as First approval and Final approval do not prove which actor approved or that the client approved. No real staff/client records, private links, workbook rows or credentials are imported into this public demo.
 
 The demo exports a native editable PPTX of task summaries after reviews pass. Actual creative files are not attached or embedded; this is not a complete real-client presentation until the approved deliverable assets are added. All approvals are local simulations. Existing browser tasks are retained on process migration, but obsolete approvals are reset so the new gates cannot be bypassed. Shared persistence and authenticated reviewer permissions still require a backend.
+
+## Client folder lifecycle and work submission
+
+Before a contract is signed, the client folder is inside the main `PMP Drive / Quotations` folder. When the client signs, Sales or Business Developer moves that same folder out to `PMP Drive / [Client name]`, retaining its contents. It is moved, not duplicated. The standalone client folder holds Quotation documents, Start Strategy, Client Brief, Content with monthly calendar PPTX files, Design with monthly final-approved designs, Videos with monthly final-approved videos, and other scope-specific work. The Account Manager opens the kickoff WhatsApp group with client, PMP owner, Marketing Manager and relevant stakeholders. These group participants do not create additional positions in the 14-role map.
+
+Content submits work on the task sheet and uploads its working calendar PPTX to Drive, receiving comments on that same calendar. Design and Video monthly folders contain only final internally and client-approved copies. Their draft-review location is not specified. Monthly `[YYYY-MM]` labels are a suggested naming convention, not a confirmed historical folder format. The website guide documents the process; it does not create real Drive folders, groups or uploads.
