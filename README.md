@@ -1,3 +1,7 @@
+## Primary owner handover pack
+
+The latest goal is the Marketing Department Mode of Operations / SOP for owner handover. Use [the editable operating manual](handover/PMP-Marketing-Department-Owner-Handover-SOP.docx), [the concise editable owner briefing](handover/PMP-Marketing-Department-Owner-Handover.pptx), and [the handover download page](handover/index.html). The earlier long presentation and browser application remain supporting reference/demo materials. See [handover notes](handover/README.md) for scope and rebuilding.
+
 # PMP Growth OS
 
 A working, dependency-free agency operations demo: command center, 14-position organization explorer, nine editable workflow journeys, seven-checkpoint campaign simulation, Kanban task board, role academy and computed workload dashboard.
