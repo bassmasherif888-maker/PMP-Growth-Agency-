@@ -34,7 +34,7 @@ SERVE_DIST=1 npm start
 
 All campaigns, clients, tasks, scores and notifications are fictional DEMO data. No real spending, publication, messages or client authorization occurs. Approval actions explicitly simulate the displayed reviewer. This is not a secure authorization system.
 
-All reporting lines, review policies and workflows are proposed and editable. Video editor reporting to the design lead is provisional. Coordination by Account Management does not imply line-management authority. Automated escalation is off; no confirmed SLAs, monetary impacts, real deadlines or capacity limits are assumed.
+Video Editor 1 and Video Editor 2 report directly to the Marketing Manager, confirmed by the user. Other reporting lines, review policies and workflows are proposed and editable. Coordination by Account Management does not imply line-management authority. Automated escalation is off; no confirmed SLAs, monetary impacts, real deadlines or capacity limits are assumed.
 
 Official PMP brand assets could not be accessed. The text wordmark, lime/forest palette and system typography are **temporary**, not verified PMP identity. Replace `brand-tokens.js` and centralized CSS theme tokens after official assets are supplied. Light/dark themes, reduced-motion styles, keyboard focus indicators and responsive layouts are included.
 
