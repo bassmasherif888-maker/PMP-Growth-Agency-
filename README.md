@@ -48,7 +48,7 @@ For production: migrate to typed components if desired; add authenticated backen
 
 ## Validation
 
-Twenty-one Node tests cover distinct role seeds, reporting/dependency cycles, required inputs, publishing approvals, budget gates, independent review, revisions full mission completion, graph layout and all five relationship layers. Browser smoke checks exercise navigation, all 14 org cards, inspectors, task creation, mission completion, reload persistence and mobile viewport fit.
+Twenty-three Node tests cover distinct role seeds, reporting/dependency cycles, required inputs, publishing approvals, budget gates, independent review, revisions full mission completion, graph layout and all five relationship layers. Browser smoke checks exercise navigation, all 14 org cards, inspectors, task creation, mission completion, reload persistence and mobile viewport fit.
 
 ## Confirmed delivery process and workbook structure
 
@@ -76,4 +76,8 @@ Supplied SKILL-1.md is the SSM Strategy framework: confirm scope/format/language
 
 The website includes a separate local readiness calculator for illustrative contract-payment checks. It does not verify bank transfers, sign contracts, authorize actual project work or enforce commercial gates across a production system. Actual delivery approval and finance controls need authenticated backend integration.
 
-The latest editable operating-process deck is `presentations/PMP-Growth-OS-Full-Client-Journey-Editable.pptx` (57 slides); `PMP-Growth-OS-Full-Client-Journey.pdf` provides a read-only preview. Montserrat and Bebas Neue are the intended fonts, as specified by the supplied branding direction. The presentation was rendered and checked for layout; it is a process guide, not a completed client strategy.
+The latest editable operating-process deck is `presentations/PMP-Growth-OS-Full-Client-Journey-Editable.pptx` (59 slides); `PMP-Growth-OS-Full-Client-Journey.pdf` provides a read-only preview. Montserrat and Bebas Neue are the intended fonts, as specified by the supplied branding direction. The presentation was rendered and checked for layout; it is a process guide, not a completed client strategy.
+
+## Post-meeting strategy alignment gate
+
+Meeting one alone does not start actual-strategy development. Only after meeting one AND the client confirms readiness to sign does AM compare Sales/BD’s skill-generated pre-meeting proposal strategy with the actual meeting brief. AM then develops the actual strategy with Social Media Specialist, Marketing Manager and Media Buyer. Actual strategy informs the second-meeting printed signing pack and any quotation scope adjustments. If the client is not ready to sign, actual-strategy work stays pending. This readiness gate precedes actual signature; contract signing still triggers the folder move, and the required upfront payment still gates delivery.
