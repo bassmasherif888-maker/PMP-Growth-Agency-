@@ -1,3 +1,7 @@
+# Current delivery
+
+[Revised lean guide and deck: English & Egyptian Arabic](lean/) — 5-page guide, 10-slide briefing, editable Word/PowerPoint and PDF previews. Supersedes the previous long delivery.
+
 ## Incoming Marketing Manager onboarding
 
 For detailed daily operation and training, use the [manager onboarding pack](onboarding/index.html): editable runbook, 48-slide training deck, PDF previews, templates and scenario answer keys. This is separate from the concise owner handover below. Includes company resource restrictions, shoot coordination and equipment accountability; unconfirmed controls remain labeled.
