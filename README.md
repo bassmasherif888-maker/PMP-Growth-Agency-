@@ -48,7 +48,7 @@ For production: migrate to typed components if desired; add authenticated backen
 
 ## Validation
 
-Eighteen Node tests cover distinct role seeds, reporting/dependency cycles, required inputs, publishing approvals, budget gates, independent review, revisions full mission completion, graph layout and all five relationship layers. Browser smoke checks exercise navigation, all 14 org cards, inspectors, task creation, mission completion, reload persistence and mobile viewport fit.
+Twenty-one Node tests cover distinct role seeds, reporting/dependency cycles, required inputs, publishing approvals, budget gates, independent review, revisions full mission completion, graph layout and all five relationship layers. Browser smoke checks exercise navigation, all 14 org cards, inspectors, task creation, mission completion, reload persistence and mobile viewport fit.
 
 ## Confirmed delivery process and workbook structure
 
@@ -67,3 +67,13 @@ The demo exports a native editable PPTX of task summaries after reviews pass. Ac
 Before a contract is signed, the client folder is inside the main `PMP Drive / Quotations` folder. When the client signs, Sales or Business Developer moves that same folder out to `PMP Drive / [Client name]`, retaining its contents. It is moved, not duplicated. The standalone client folder holds Quotation documents, Start Strategy, Client Brief, Content with monthly calendar PPTX files, Design with monthly final-approved designs, Videos with monthly final-approved videos, and other scope-specific work. The Account Manager opens the kickoff WhatsApp group with client, PMP owner, Marketing Manager and relevant stakeholders. These group participants do not create additional positions in the 14-role map.
 
 Content submits work on the task sheet and uploads its working calendar PPTX to Drive, receiving comments on that same calendar. Design and Video monthly folders contain only final internally and client-approved copies. Their draft-review location is not specified. Monthly `[YYYY-MM]` labels are a suggested naming convention, not a confirmed historical folder format. The website guide documents the process; it does not create real Drive folders, groups or uploads.
+
+## Commercial journey before delivery
+
+Sales or Business Developer leads acquisition through on-ground visits, researched cold calls, LinkedIn, email campaigns and calls to leads from PMP paid media. Account Manager participates throughout. Before the first online/offline meeting, prepare and study the audit, strategy and a three-tier suggested quotation. If the prospect is convinced, request a second meeting with printed client brief, strategy, agreed quotation and contract; the client signs all four. Contract signing moves the existing folder out of Quotations; actual delivery readiness also requires the upfront payment. Social-management-only contracts require 100% upfront. Contracts including other services require 50% upfront. The media-buying fee (described by the user as a 25% retainer) is calculated after plan execution on actual media expenses. No new balance-payment timetable, ad-spend funding or tax rule is assumed.
+
+Supplied SKILL-1.md is the SSM Strategy framework: confirm scope/format/language/access, research, identify contradictions, label Observed/Interpretation/Recommendation, disclose verification gaps, and complete all 26 sections when a full strategy is in scope. It does not contain an agency quotation formula or current rates. Three tiers need verified market-range and prior-price evidence, proposed scope, client industry and class. Public view patterns alone do not establish paid boosting. No client audit, actual market rates or prices are fabricated. The raw skill and internal pricing evidence are not published.
+
+The website includes a separate local readiness calculator for illustrative contract-payment checks. It does not verify bank transfers, sign contracts, authorize actual project work or enforce commercial gates across a production system. Actual delivery approval and finance controls need authenticated backend integration.
+
+The latest editable operating-process deck is `presentations/PMP-Growth-OS-Full-Client-Journey-Editable.pptx` (57 slides); `PMP-Growth-OS-Full-Client-Journey.pdf` provides a read-only preview. Montserrat and Bebas Neue are the intended fonts, as specified by the supplied branding direction. The presentation was rendered and checked for layout; it is a process guide, not a completed client strategy.
