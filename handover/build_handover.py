@@ -106,6 +106,14 @@ table(['Exception','Required route'],[('Client not ready to sign','Remain in pre
 head('10. Growth OS and evidence method')
 para('The supplied Growth OS provides the strategic loop: Discover → Diagnose → Design → Deploy → Optimise → Scale. Pre-sales research supplies early discovery evidence; the actual strategy reconciles it with the real brief at readiness to sign. Contracted execution then follows the signed scope and payment gate. Reporting feeds future diagnosis/design rather than bypassing approval.')
 para('SSM Strategy: confirm scope/format/language/access; research; identify contradictions; label Observed / Interpretation / Recommendation; disclose gaps; develop scoped strategy; verify numbers/quotes and presentation. A full scope contains 26 sections; audit-only work does not imply the full strategy is completed. Three quotation tiers require separately verified market ranges and previous prices.')
+head('10A. Monthly team performance appraisals')
+para('CONFIRMED cadence: complete team performance appraisals every month using the approved role-specific company forms. Exact dates, reviewer assignments, master file/version and private storage/access must be agreed. This is a people-development review, separate from client performance reporting and daily task approval.')
+monthly=json.loads((ROOT.parent/'operations/monthly-appraisals.json').read_text())
+for i,step in enumerate(monthly['steps'],1):para(str(i)+'. '+step)
+table(['Section','Weight'],[(name,str(weight)+'%') for name,weight in monthly['weights'].items()])
+para('Source scale: 1 Poor; 2 Below Expectations; 3 Meets Expectations; 4 Exceeds Expectations; 5 Outstanding. Use supplied behavioral anchors and evidence; justify ratings 1, 2 and 5. Blank ratings must not be read as a valid completed assessment.')
+para('The supplied templates include quarterly OKRs; track them during monthly reviews rather than changing monthly appraisal cadence. Final pay, promotion and HR decisions require authorized review; they are not automatically granted by a score. No completed employee evaluations, salaries or private archive files are included in this public pack.')
+para('Open decisions: '+monthly['open_decisions'])
 head('11. Owner acceptance and handover checklist')
 para('Status of every item below is NOT ASSESSED. This document describes the required handover; it does not certify completion.')
 checks=['Confirm current Marketing Manager approval authority; name a successor/delegate only if responsibility changes.','Confirm all reporting lines beyond the two direct-to-MM video-editor lines.','Review each active client’s signed scope, actual strategy, contract and payment status privately.','Transfer client-folder ownership/access and confirm quotation-to-client-folder moves.','Transfer platform, publishing and media-account access securely; do not paste passwords into this SOP.','Review every open task, missing input, overdue item, unresolved comment and pending review.','Identify the current client-presentation version and final approval evidence for each account.','Reconcile final Design/Video archives and active Content calendar review files.','Transfer private-label publishing schedules, community issues, reports and actual paid-spend evidence.','Confirm reporting cadence, priority definitions, SLAs, escalation route and backup reviewers.','Confirm payment verifier, balance schedule, media funding, tax treatment and actual-expense fee basis.','Walk one anonymized example from prospect to reporting and one rejected task through the revision loop.','Record owner acceptance date, exceptions, assigned follow-up owners and deadlines.']
@@ -205,12 +213,14 @@ rowslide('COMPANY RESOURCES / ACCESS IS NOT UNIVERSAL',[
 ('HIGGSFIELD','Video Editors VE-01/VE-02 ONLY. Forbidden for every other team member.'),('CLAUDE + CHATGPT','Company-provided subscriptions; confirm named seats, licence and data-use rules.'),('CANVA + ADOBE','Company-provided software; exact applications and seat assignments remain to confirm.'),('HARD DRIVES','Several company drives exist. Register asset, location, contents and named custodian; custody not yet assigned here.')])
 rowslide('SHOOTING OPERATIONS / PEOPLE, DATA AND EQUIPMENT',[
 ('AM COORDINATION','Arrange outsourced video/photo team, podcast guests and PR person.'),('SM DATA HANDOFF','Collect footage/photos from videographer/photographer; hand to assigned editors/designers.'),('SM ACCOUNTABILITY','Full accountability for memory cards and studio tools; capture behind-the-scenes content.'),('RECOMMENDED RECORDS','Shoot brief, asset issue/return, transfer reference, receiver check and backup/custody confirmation.')])
+rowslide('MONTHLY TEAM APPRAISALS / A DISTINCT OPERATING CYCLE',[
+('EVERY MONTH','Use approved role-specific forms; preserve private employee evidence and data.'),('SELF + MANAGER','Employee self-rating before the meeting; manager rating and gap discussion.'),('WEIGHTS / SCALE','30% core, 50% role KPIs, 10% development, 10% culture. Scale 1–5; justify 1/2/5.'),('DEVELOPMENT','Record achievements, blockers, feedback and next SMART goals; follow quarterly OKRs monthly.'),('COMPLETENESS','Do not interpret blank-as-zero totals as completed reviews or make pay/promotion automatic.')])
 sl=slide('OWNER HANDOVER / ACCEPT THE SYSTEM, THEN VERIFY THE LIVE STATE',dark=True);tx(sl,'The operating blueprint is documented.',.9,2.7,14,.9,34,Y,True);tx(sl,'Next: confirm authority, review active accounts and access,\nresolve open work and record owner acceptance.',.9,4.05,14,1.75,29,W);tx(sl,'Use the SOP document for execution. Use the private task sheet and company tools for live records.',.9,6.65,14,.85,21,W)
 PPTX=ROOT/'PMP-Marketing-Department-Owner-Handover.pptx';r.save(PPTX)
-assert len(r.slides)==22
+assert len(r.slides)==23
 for p in [DOCX,PPTX]:
  with ZipFile(p) as z:assert z.testzip() is None
 assert len(Document(DOCX).paragraphs)>100
 assert not any(sh.shape_type==13 for sl in r.slides for sh in sl.shapes)
 (ROOT/'procedure-register.json').write_text(json.dumps(procedures,indent=2,ensure_ascii=False)+'\n')
-print('Built owner handover: editable SOP DOCX + MD, 22-slide native editable PPTX, 12-procedure register.')
+print('Built owner handover: editable SOP DOCX + MD, 23-slide native editable PPTX, 12-procedure register.')

@@ -89,3 +89,8 @@ The latest editable operating-process deck is `presentations/PMP-Growth-OS-Full-
 ## Post-meeting strategy alignment gate
 
 Meeting one alone does not start actual-strategy development. Only after meeting one AND the client confirms readiness to sign does AM compare Sales/BD’s skill-generated pre-meeting proposal strategy with the actual meeting brief. AM then develops the actual strategy with Social Media Specialist, Marketing Manager and Media Buyer. Actual strategy informs the second-meeting printed signing pack and any quotation scope adjustments. If the client is not ready to sign, actual-strategy work stays pending. This readiness gate precedes actual signature; contract signing still triggers the folder move, and the required upfront payment still gates delivery.
+
+
+## English and Arabic deliverables
+
+[Download all final outputs in both languages](arabic/) — editable owner handover, detailed manager onboarding and full journey reference, including monthly performance appraisals.

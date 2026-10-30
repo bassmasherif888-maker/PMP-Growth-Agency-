@@ -16,7 +16,7 @@ This is an onboarding blueprint, not a certification of readiness. All live acco
 | Who do I work with? | Chapter 3: all 14 roles, reporting and collaboration. |
 | Where do I find things? | Chapter 4: access, task sheet, Drive and communication records. |
 | What do I do every day? | Chapter 5: proposed opening, execution, review and closing routines. |
-| How do I run each process? | Chapter 6: SOP-01–13, each with manager inspection and exception routes. |
+| How do I run each process? | Chapter 6: SOP-01–14, each with manager inspection and exception routes. |
 | How do I approve quality? | Chapter 7: content, design, video and client-pack review rubrics. |
 | What if something goes wrong? | Chapter 8: decision trees and operational scenarios. |
 | What do I report? | Chapter 9: reporting, evidence and the commercial fee boundary. |
@@ -459,7 +459,7 @@ Ask what each is trying to achieve against the brief. Identify the actual confli
 
 ## 6. Running the complete client process
 
-The following 13 playbooks retain the confirmed procedure and add a manager inspection layer: what to open, what to ask, what evidence should exist and when to hold or return work. A checklist is not proof that a step happened; record the actual evidence privately.
+The following 14 playbooks retain the confirmed procedure and add a manager inspection layer: what to open, what to ask, what evidence should exist and when to hold or return work. A checklist is not proof that a step happened; record the actual evidence privately.
 
 | Procedure | Manager inspection focus |
 | --- | --- |
@@ -476,6 +476,7 @@ The following 13 playbooks retain the confirmed procedure and add a manager insp
 | SOP-11 / Schedule, publish and manage the community | Check SM has the approved calendar/presentation and final assets for the correct account and platform. |
 | SOP-12 / Report, optimise and inform scale | Ask SM for performance and listening reports, not only publication counts. Ask MB for paid performance and actual-spend evidence. |
 | SOP-13 / Coordinate shoots, collect media and control equipment | Ask AM for the outsourced crew, guest and PR arrangements, the task brief and expected outputs. |
+| SOP-14 / Run the monthly team performance appraisal | Confirm the actual review month, correct approved role template and confirmed reviewer; do not force a combined-role or missing-role mapping. |
 
 ## SOP-01 | Prospect and qualify
 
@@ -1043,6 +1044,58 @@ Procedure gate: Higgsfield use remains restricted to VE-01/VE-02 only. Do not in
 
 Output: Shoot arrangements, collected media, traceable handoff to the assigned editor/designer, BTS output and accounted-for cards/tools. Required record: Recommended shoot record, participant/asset references, media handoff, receiving owner, card/tool issue-return and exceptions.
 
+## SOP-14 | Run the monthly team performance appraisal
+
+| Control | Instruction |
+| --- | --- |
+| Lead / participants | Confirmed direct manager reviews; employee completes self-rating; final HR/owner authority and MM reviewer must be confirmed. |
+| Start trigger | Each monthly employee review cycle; exact dates to be agreed. |
+| Required inputs | Approved current role-specific form, review month, self-rating, manager evidence and previous goals. |
+
+### Execution sequence
+
+1. Select the approved role-specific form and record employee, actual review month and confirmed direct reviewer privately. Do not infer a reviewer from coordination responsibilities.
+
+2. Collect month-specific evidence from tasks, quality/revision records, outputs and role-appropriate results. Distinguish missing inputs or changed scope from individual execution.
+
+3. Employee completes Self-Rating before the review meeting. Manager completes Manager Rating; compare the gap rather than assuming agreement.
+
+4. Use the supplied 1–5 scale and behavioral anchors. Ratings 1, 2 and 5 require a brief evidence-based justification in the Notes field/section.
+
+5. Check the role-specific weights and calculations. Supplied Excel uses Gap = Manager minus Self and weighted contribution = KPI weight × Manager Rating / 5. Confirm completion before interpreting totals: blank manager ratings are treated as zero in the supplied formulas.
+
+6. Hold the monthly review conversation, record achievements, blockers, strengths, improvement areas and employee feedback. Track the template's quarterly OKRs within the monthly conversation; do not confuse the two cadences.
+
+7. Agree SMART goals and development/training actions for the next period, with accountable action owners and agreed follow-up. Record the signatures/decisions required by the adopted process.
+
+8. Keep completed appraisals and salary/career information in private authorized storage; carry goals into the following monthly review. Promotion, salary, succession and HR fields are not automatic decisions or approvals.
+
+### What you inspect as Marketing Manager
+
+• Confirm the actual review month, correct approved role template and confirmed reviewer; do not force a combined-role or missing-role mapping.
+
+• Review employee self-rating, manager rating and evidence. Ratings 1, 2 and 5 need justification; use behavioral anchors.
+
+• Check weights and completeness before totals. Supplied formulas use blank manager ratings as zero; do not confuse an incomplete form with poor performance.
+
+• Discuss gaps and blockers, record employee feedback and agree next SMART goals/training actions.
+
+• Keep salary, career and completed review records private. Reviewer/HR authority and monthly deadlines still require confirmation.
+
+### Evidence to open or request
+
+• Approved private form/version; month-specific evidence; self/manager ratings; explanations; goals; decisions/signatures; next review.
+
+### Hold / return / escalate
+
+• Missing ratings, unsupported extreme scores or unconfirmed reviewer/template: do not finalize a score. Resolve the gap; do not auto-trigger salary, promotion or employment decisions.
+
+Procedure gate: Monthly cadence is confirmed. Select approved template/reviewer and check all required ratings before interpreting score. No automatic pay, promotion or employment decision.
+
+### Exit and record
+
+Output: Private completed monthly review with evidence, feedback, SMART goals and development actions. Required record: Private appraisal, source references, review conversation, required decisions/signatures and next-period follow-up.
+
 ## 7. Review quality: a usable decision, not “looks good”
 
 These review rubrics are recommended inspection aids, not new company SLAs or production specifications. Apply the actual brief, brand guide, platform requirement and agreed scope. Keep quality review, MM final internal approval and client approval distinct.
@@ -1248,6 +1301,57 @@ If a media plan has been executed and the agreed actual-expense basis is a verif
 ### Recommended weekly decision note
 
 Observed outcome and source → interpretation → recommended action → accountable action owner → required approval/scope check → next review point. The skill’s Observed/Interpretation/Recommendation discipline applies to reporting as well as strategy.
+
+## 9A. Monthly performance appraisals: how to run the people review
+
+CONFIRMED: conduct the company performance appraisal monthly. This is distinct from client performance reports, daily task checks and the quarterly objectives section inside the forms. Use the actual month and approved role-specific master, not an assumed annual or quarterly review cycle.
+
+| Section in supplied forms | Weight |
+| --- | --- |
+| Core competencies | 30% |
+| Role-specific or technical KPIs | 50% |
+| Professional development | 10% |
+| Company events and culture | 10% |
+
+| Score | Level | Behavioral description |
+| --- | --- | --- |
+| 1 | Poor | Performance consistently falls below expectations |
+| 2 | Below Expectations | Occasionally meets expectations; needs improvement |
+| 3 | Meets Expectations | Consistently meets job requirements |
+| 4 | Exceeds Expectations | Frequently exceeds job requirements |
+| 5 | Outstanding | Consistently exceptional performance |
+
+### Prepare, meet and follow through
+
+1. Select the approved role-specific form and record employee, actual review month and confirmed direct reviewer privately. Do not infer a reviewer from coordination responsibilities.
+
+2. Collect month-specific evidence from tasks, quality/revision records, outputs and role-appropriate results. Distinguish missing inputs or changed scope from individual execution.
+
+3. Employee completes Self-Rating before the review meeting. Manager completes Manager Rating; compare the gap rather than assuming agreement.
+
+4. Use the supplied 1–5 scale and behavioral anchors. Ratings 1, 2 and 5 require a brief evidence-based justification in the Notes field/section.
+
+5. Check the role-specific weights and calculations. Supplied Excel uses Gap = Manager minus Self and weighted contribution = KPI weight × Manager Rating / 5. Confirm completion before interpreting totals: blank manager ratings are treated as zero in the supplied formulas.
+
+6. Hold the monthly review conversation, record achievements, blockers, strengths, improvement areas and employee feedback. Track the template's quarterly OKRs within the monthly conversation; do not confuse the two cadences.
+
+7. Agree SMART goals and development/training actions for the next period, with accountable action owners and agreed follow-up. Record the signatures/decisions required by the adopted process.
+
+8. Keep completed appraisals and salary/career information in private authorized storage; carry goals into the following monthly review. Promotion, salary, succession and HR fields are not automatic decisions or approvals.
+
+### Read the formula correctly
+
+The sampled Excel formulas calculate Gap = Manager Rating minus Self-Rating. Each weighted contribution is KPI weight × Manager Rating / 5, and section contributions are summed. The employee self-rating supports discussion; it is not substituted for manager rating in those formulas. Some blank manager ratings produce zero contributions, so completeness must be checked before interpreting a total or grade.
+
+Sampled grade formulas show Excellent at 90%+, Very Good at 80%+, Good at 70%+, otherwise Needs Improvement. Treat these as provided-template logic, verify the approved master and all required ratings before use, and do not turn an incomplete form into a negative employment judgment.
+
+### Role mapping and approval limits
+
+The archive contains nine role-title families, including Marketing Manager, Account Manager, Senior Content Creator, Content Creator, Graphic Designer, Video Editor, Social Media Specialist, a combined Content/Social role and Performance Marketing Specialist. This does not add staff positions or automatically settle mapping to all 14 roles. Confirm missing/combined-role cases, reviewer of MM and final HR/owner authority. Keep original archive and completed employee forms private.
+
+The template requests justification for ratings 1, 2 and 5 and includes achievements, blockers, manager evaluation, employee feedback, next-period SMART goals, development/training, HR notes and signatures. Quarterly OKRs are followed within the monthly discussion; they do not change the monthly appraisal cadence.
+
+Open decisions: Approved master/version; mapping nine supplied role-title families to the 14 positions (including missing/combined-role cases); reviewer of Marketing Manager; final HR/owner authority; exact deadlines and private storage/access. Do not create extra staff positions or force mismatched scorecards.
 
 ## 10. Worked training case: Orbit Studio — fictional
 
@@ -1481,6 +1585,17 @@ Templates below are recommended controls, not assertions that these exact fields
 | Handoff / permission | [Who issued/received item; access or transfer evidence] |
 | Backup / retention / return | [Adopted rule or TO CONFIRM; no invented capacity or backup guarantee] |
 
+### O. Monthly appraisal cycle control
+
+| Field | Complete privately / example instruction |
+| --- | --- |
+| Month / approved role form | [Actual review month, master/version and confirmed role mapping] |
+| Reviewer / self-rating | [Confirmed manager; employee self-rating submitted before meeting] |
+| Evidence / completion | [Private task/result references; required ratings complete; 1/2/5 notes present] |
+| Scores / discussion | [Manager rating, self-rating, gap, validated weighted score and behavioral examples] |
+| Next goals / development | [SMART goals, training actions, responsible owner and agreed follow-up] |
+| Private record / authority | [Private storage, required signatures, approved decision-maker; no automatic pay/promotion] |
+
 ## 12. Practice scenarios and answer key
 
 Use these in a supervised onboarding session. The recommended assessment is not a company scoring policy. Ask the manager to state the next permitted action, the hold condition, the required evidence and the accountable role. Mark each competency individually; do not grant live authority merely because a quiz is passed.
@@ -1610,6 +1725,14 @@ Assessor result: NOT ASSESSED | Evidence/next practice: ____________________.
 Question: A card transfer is unreadable and someone wants to format it.
 
 Expected reasoning: Record the issue and involve SM/AM/authorized administrator; do not use destructive formatting as a workaround. Adopt explicit transfer/backup/format authority controls; no policy period is invented here.
+
+Assessor result: NOT ASSESSED | Evidence/next practice: ____________________.
+
+### Scenario 17
+
+Question: The monthly form has missing manager ratings but already shows a low grade. Can the review be finalized?
+
+Expected reasoning: No. Check the approved template, complete required ratings and evidence, and justify 1/2/5 before interpreting totals. Blank-as-zero formulas are not a completed review. Discuss the gap, goals and training privately; quarterly OKRs do not change monthly cadence.
 
 Assessor result: NOT ASSESSED | Evidence/next practice: ____________________.
 

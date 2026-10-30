@@ -4,7 +4,7 @@ The primary deliverable is an operating manual, rather than the earlier long dem
 
 - `PMP-Marketing-Department-Owner-Handover-SOP.docx`: editable owner handover SOP, including 12 procedures, role/tool registers, approval matrix, proposed daily routine, exceptions and acceptance checklist.
 - `PMP-Marketing-Department-Owner-Handover-SOP.md`: complete editable text companion exported from the Word document in body order.
-- `PMP-Marketing-Department-Owner-Handover.pptx`: concise 22-slide native editable owner briefing.
+- `PMP-Marketing-Department-Owner-Handover.pptx`: concise 23-slide native editable owner briefing.
 - Matching PDFs provide read-only previews.
 - `procedure-register.json`: the 12 structured procedures.
 - `index.html`: a static download/preview page for GitHub Pages.
@@ -12,3 +12,5 @@ The primary deliverable is an operating manual, rather than the earlier long dem
 No private operational records or original workbook/skill assets are included. This pack documents process; actual owner acceptance, active-client reconciliation and access verification remain unassessed. Proposed operating cadence and unconfirmed authority are labeled. Receipt of the pack does not automatically transfer Marketing Manager approval duties.
 
 Rebuild with `python3 handover/build_handover.py` from the repository root (requires python-docx and python-pptx). To update PDFs, convert the DOCX and PPTX with LibreOffice after installing Montserrat and Bebas Neue, then review rendered pages. The generator contains no credentials or private client information.
+
+Both English and Arabic final editions, including monthly team appraisals, are linked from [the bilingual delivery page](../arabic/).

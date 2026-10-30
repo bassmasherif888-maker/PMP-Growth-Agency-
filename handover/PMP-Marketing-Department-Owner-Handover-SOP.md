@@ -568,6 +568,39 @@ The supplied Growth OS provides the strategic loop: Discover → Diagnose → De
 
 SSM Strategy: confirm scope/format/language/access; research; identify contradictions; label Observed / Interpretation / Recommendation; disclose gaps; develop scoped strategy; verify numbers/quotes and presentation. A full scope contains 26 sections; audit-only work does not imply the full strategy is completed. Three quotation tiers require separately verified market ranges and previous prices.
 
+## 10A. Monthly team performance appraisals
+
+CONFIRMED cadence: complete team performance appraisals every month using the approved role-specific company forms. Exact dates, reviewer assignments, master file/version and private storage/access must be agreed. This is a people-development review, separate from client performance reporting and daily task approval.
+
+1. Select the approved role-specific form and record employee, actual review month and confirmed direct reviewer privately. Do not infer a reviewer from coordination responsibilities.
+
+2. Collect month-specific evidence from tasks, quality/revision records, outputs and role-appropriate results. Distinguish missing inputs or changed scope from individual execution.
+
+3. Employee completes Self-Rating before the review meeting. Manager completes Manager Rating; compare the gap rather than assuming agreement.
+
+4. Use the supplied 1–5 scale and behavioral anchors. Ratings 1, 2 and 5 require a brief evidence-based justification in the Notes field/section.
+
+5. Check the role-specific weights and calculations. Supplied Excel uses Gap = Manager minus Self and weighted contribution = KPI weight × Manager Rating / 5. Confirm completion before interpreting totals: blank manager ratings are treated as zero in the supplied formulas.
+
+6. Hold the monthly review conversation, record achievements, blockers, strengths, improvement areas and employee feedback. Track the template's quarterly OKRs within the monthly conversation; do not confuse the two cadences.
+
+7. Agree SMART goals and development/training actions for the next period, with accountable action owners and agreed follow-up. Record the signatures/decisions required by the adopted process.
+
+8. Keep completed appraisals and salary/career information in private authorized storage; carry goals into the following monthly review. Promotion, salary, succession and HR fields are not automatic decisions or approvals.
+
+| Section | Weight |
+| --- | --- |
+| Core competencies | 30% |
+| Role-specific or technical KPIs | 50% |
+| Professional development | 10% |
+| Company events and culture | 10% |
+
+Source scale: 1 Poor; 2 Below Expectations; 3 Meets Expectations; 4 Exceeds Expectations; 5 Outstanding. Use supplied behavioral anchors and evidence; justify ratings 1, 2 and 5. Blank ratings must not be read as a valid completed assessment.
+
+The supplied templates include quarterly OKRs; track them during monthly reviews rather than changing monthly appraisal cadence. Final pay, promotion and HR decisions require authorized review; they are not automatically granted by a score. No completed employee evaluations, salaries or private archive files are included in this public pack.
+
+Open decisions: Approved master/version; mapping nine supplied role-title families to the 14 positions (including missing/combined-role cases); reviewer of Marketing Manager; final HR/owner authority; exact deadlines and private storage/access. Do not create extra staff positions or force mismatched scorecards.
+
 ## 11. Owner acceptance and handover checklist
 
 Status of every item below is NOT ASSESSED. This document describes the required handover; it does not certify completion.
